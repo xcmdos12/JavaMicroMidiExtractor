@@ -1,0 +1,10 @@
+D:\Christoph\Dokumente\Visual Studio 2019\Projects\JavaMobileGamesMidiExtractor\JavaMobileGamesMidiExtractor\bin\Debug\JavaMobileGamesMidiExtractor.exe.config
+D:\Christoph\Dokumente\Visual Studio 2019\Projects\JavaMobileGamesMidiExtractor\JavaMobileGamesMidiExtractor\bin\Debug\JavaMobileGamesMidiExtractor.exe
+D:\Christoph\Dokumente\Visual Studio 2019\Projects\JavaMobileGamesMidiExtractor\JavaMobileGamesMidiExtractor\bin\Debug\JavaMobileGamesMidiExtractor.pdb
+D:\Christoph\Dokumente\Visual Studio 2019\Projects\JavaMobileGamesMidiExtractor\JavaMobileGamesMidiExtractor\obj\Debug\JavaMobileGamesMidiExtractor.Form1.resources
+D:\Christoph\Dokumente\Visual Studio 2019\Projects\JavaMobileGamesMidiExtractor\JavaMobileGamesMidiExtractor\obj\Debug\JavaMobileGamesMidiExtractor.Properties.Resources.resources
+D:\Christoph\Dokumente\Visual Studio 2019\Projects\JavaMobileGamesMidiExtractor\JavaMobileGamesMidiExtractor\obj\Debug\JavaMobileGamesMidiExtractor.csproj.GenerateResource.cache
+D:\Christoph\Dokumente\Visual Studio 2019\Projects\JavaMobileGamesMidiExtractor\JavaMobileGamesMidiExtractor\obj\Debug\JavaMobileGamesMidiExtractor.csproj.CoreCompileInputs.cache
+D:\Christoph\Dokumente\Visual Studio 2019\Projects\JavaMobileGamesMidiExtractor\JavaMobileGamesMidiExtractor\obj\Debug\JavaMobileGamesMidiExtractor.exe
+D:\Christoph\Dokumente\Visual Studio 2019\Projects\JavaMobileGamesMidiExtractor\JavaMobileGamesMidiExtractor\obj\Debug\JavaMobileGamesMidiExtractor.pdb
+D:\Christoph\Dokumente\Visual Studio 2019\Projects\JavaMobileGamesMidiExtractor\JavaMobileGamesMidiExtractor\obj\Debug\JavaMobileGamesMidiExtractor.csprojAssemblyReference.cache
